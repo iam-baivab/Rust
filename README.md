@@ -1,10 +1,12 @@
-# Rust
+# Rust 
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Welcome to the Rust Repository! This repository contains a Rust project that is structured and organized for ease of use and contribution. Below you will find all the necessary information to get started with this project.
+Welcome to the Rust Repository! This repository contains a Rust project that is structured and organized for ease of use and contribution. Below you will find all the necessary information to get started with this project. 
 
-## Table of Contents
+
+## Table of Contents <img src=https://www.freecodecamp.org/news/content/images/size/w2000/2021/01/rust-mascot.png alt="Rust logo" height="90">
 
 - [About the Project](#about-the-project)
 - [Getting Started](#getting-started)
